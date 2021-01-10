@@ -1,2 +1,3 @@
 # omikuji
+
 omikuji
